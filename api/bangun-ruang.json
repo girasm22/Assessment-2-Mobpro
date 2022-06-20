@@ -12,26 +12,26 @@
   {
     "nama": "kubus",
     "ciri": "Semua sudutnya siku-siku.",
-    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/kubus.jpeg" 
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/kubus.jpg" 
   },
   {
     "nama": "limas segilima",
     "ciri": "memiliki 5 buah sisi yaitu 1 sisi alas berbentuk segiempat dan 4 sisi tegak berbentuk segitiga.",
-    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segilima.jpeg" 
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segilima.jpg" 
   },
   {
     "nama": "limas segitiga",
     "ciri": "Tidak memiliki diagonal ruang dan sisi.",
-    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segitiga.jpeg" 
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/limas-segitiga.png" 
   },
   {
     "nama": "prisma segitiga",
     "ciri": "Bentuk alas dan atapnya segitiga.",
-    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/prisma-segitiga.jpeg" 
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/prisma-segitiga.jpg" 
   },
   {
     "nama": "tabung",
     "ciri": "Tinggi tabung adalah jarak antara alas dengan tutup tabung.",
-    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/tabung.jpeg" 
+    "gambar": "https://raw.githubusercontent.com/girasm22/Assessment-2-Mobpro/master/api/img/tabung.png" 
   }
 ]
